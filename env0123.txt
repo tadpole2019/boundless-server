@@ -1,0 +1,13 @@
+PORT=3005
+NODE_ENV=development
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=boundless_final
+DB_USERNAME=admin
+DB_PASSWORD=12345
+ACCESS_TOKEN_SECRET=thisisverstrongaccesstokensecre
+DEBUG=true
+
+SMTP_TO_EMAIL=mfee01b@gmail.com
+SMTP_TO_PASSWORD=iqwwamobjaouhsxb
+OTP_SECRET=thisisaotpsecretforservernpm
